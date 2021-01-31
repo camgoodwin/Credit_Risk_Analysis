@@ -65,5 +65,5 @@ The average precision scores as well as individually are the lowest possible res
 
 ![image](Images/combination_classification_report.PNG)
 
-##Summary 
+## Summary 
 Majority of the machine learning models created the same accuracy score with a similar classification report.  I recommend the balanced random forest model as it provided a detailed accuracy score.  Using this model provides a larger reach into the dataset, which provides a more accurate prediction. 
